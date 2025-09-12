@@ -1,0 +1,14 @@
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\bin\Debug\net7.0-windows\TCPClientFileSender.exe
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\bin\Debug\net7.0-windows\TCPClientFileSender.deps.json
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\bin\Debug\net7.0-windows\TCPClientFileSender.runtimeconfig.json
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\bin\Debug\net7.0-windows\TCPClientFileSender.dll
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\bin\Debug\net7.0-windows\TCPClientFileSender.pdb
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\obj\Debug\net7.0-windows\TCPClientFileSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\obj\Debug\net7.0-windows\TCPClientFileSender.AssemblyInfoInputs.cache
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\obj\Debug\net7.0-windows\TCPClientFileSender.AssemblyInfo.cs
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\obj\Debug\net7.0-windows\TCPClientFileSender.csproj.CoreCompileInputs.cache
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\obj\Debug\net7.0-windows\TCPClientFileSender.dll
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\obj\Debug\net7.0-windows\refint\TCPClientFileSender.dll
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\obj\Debug\net7.0-windows\TCPClientFileSender.pdb
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\obj\Debug\net7.0-windows\TCPClientFileSender.genruntimeconfig.cache
+C:\TUGAS\Pemrograman Jaringan\week 4\TCPClientFileSender\obj\Debug\net7.0-windows\ref\TCPClientFileSender.dll

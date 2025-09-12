@@ -1,0 +1,14 @@
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\bin\Debug\net7.0-windows\TCPServerFileReceiver.exe
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\bin\Debug\net7.0-windows\TCPServerFileReceiver.deps.json
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\bin\Debug\net7.0-windows\TCPServerFileReceiver.runtimeconfig.json
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\bin\Debug\net7.0-windows\TCPServerFileReceiver.dll
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\bin\Debug\net7.0-windows\TCPServerFileReceiver.pdb
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\obj\Debug\net7.0-windows\TCPServerFileReceiver.GeneratedMSBuildEditorConfig.editorconfig
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\obj\Debug\net7.0-windows\TCPServerFileReceiver.AssemblyInfoInputs.cache
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\obj\Debug\net7.0-windows\TCPServerFileReceiver.AssemblyInfo.cs
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\obj\Debug\net7.0-windows\TCPServerFileReceiver.csproj.CoreCompileInputs.cache
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\obj\Debug\net7.0-windows\TCPServerFileReceiver.dll
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\obj\Debug\net7.0-windows\refint\TCPServerFileReceiver.dll
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\obj\Debug\net7.0-windows\TCPServerFileReceiver.pdb
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\obj\Debug\net7.0-windows\TCPServerFileReceiver.genruntimeconfig.cache
+c:\TUGAS\Pemrograman Jaringan\week 4\TCPServerFileReceiver\obj\Debug\net7.0-windows\ref\TCPServerFileReceiver.dll
